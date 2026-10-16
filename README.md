@@ -1,6 +1,6 @@
 # IaC Generator for Bicep V1
 
-**Built by Martin Yeung**
+**Made by mStudio Solutions**
 
 Drag-and-drop visual builder for Azure Bicep - 100% frontend, free, no backend, GitHub Pages ready.
 
@@ -30,4 +30,4 @@ Drag-and-drop visual builder for Azure Bicep - 100% frontend, free, no backend, 
 This repo is deployed via GitHub Pages. Just push index.html to main branch and enable Pages.
 
 ### Author
-Built by Martin Yeung
+Made by mStudio Solutions
