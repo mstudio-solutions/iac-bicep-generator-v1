@@ -1,10 +1,10 @@
-# IaC Generator for Bicep V1
+# IaC Generator for Bicep
 
 **Made by mStudio Solutions**
 
 Drag-and-drop visual builder for Azure Bicep - 100% frontend, free, no backend, GitHub Pages ready.
 
-### Features V1
+### Features
 - Visual Canvas: Drag dots to link VM→Subnet→VNet, NSG↔Subnet, App/Func→Plan, Func→Storage, SQL DB→Server
 - Foundation: Resource Group, Virtual Network, Subnet, NSG
 - Compute: Virtual Machine (with OS disk type selector + 4x Data Disks), App Service Plan, App Service, Function App, Container Registry
